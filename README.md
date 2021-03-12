@@ -1,7 +1,6 @@
 # Projeto para treinamento de estrutura de arrays e listas em Kotlin
 
-###Desenvolvido em cumprimento do treinamento da ZupAcademy
-####
+**Desenvolvido em cumprimento do treinamento da ZupAcademy**
 
 <ol>Introdução aos arrays</ol>
 <ol>Funções de agregação</ol>
