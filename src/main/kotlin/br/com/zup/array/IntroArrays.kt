@@ -1,4 +1,4 @@
-package br.com.zup.arrays
+package br.com.zup.array
 
 fun main() {
     val idades: IntArray = intArrayOf(25, 19, 33, 20, 55, 40)
