@@ -1,4 +1,5 @@
 package br.com.zup.array
+
 fun main() {
     val serie: IntRange = 1..10
     for (i in serie) {
